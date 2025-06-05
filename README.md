@@ -1,1 +1,1 @@
-This is where I will upload all my github solutions :)
+This is where I will upload all my leetcode solutions :)
